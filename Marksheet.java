@@ -12,7 +12,7 @@ public class Marksheet {
 		int sumObt=0;
 		int[] obtNo=new int[courses];
 		
-		int b=1;
+		int b=2;  //changes 
 		for (int i=0;i<courses;i++) {
 			
 			System.out.println("Enter obtained marks in course:"+b);
